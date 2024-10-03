@@ -1,0 +1,4 @@
+Mi IP Publica es: 186.137.145.76 
+Mi usuario es: vagrant 
+El Hash de mi usuario es: $y$j9T$oDaO5l4pmmxP6NNwLHYh//$SW2ci25.4LgXkgFXRSsEirXJz.TRS422dgJ3.nQ0hl. 
+La URL de mi repositorio es: https://github.com/ThiagoDuda/UTNFRA_SO_1P2C_2024_Duda.git
